@@ -1,0 +1,7 @@
+<src.config.Config>
+  <port>6666</port>
+  <historyURL>../multicastChat/history/history.txt</historyURL>
+  <inetMulticast>224.24.24.24</inetMulticast>
+  <colorText>true</colorText>
+  <msgDecorator></msgDecorator>
+</src.config.Config>
